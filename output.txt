@@ -1,0 +1,16 @@
+On The Base:
+Pin 1 Position on the base: {'x': -25, 'y': 0, 'alpha': 0}
+Pin 2 Position on the base: {'x': 25, 'y': 0, 'alpha': 0}
+
+
+The 2 assembly parts:
+Part part_1:
+part_1 Target Position: {'x': -25, 'y': 0, 'alpha': 0}
+part_1 Mounting Hole: {'id': 1, 'position': {'x': 0, 'y': 0, 'alpha': 0}}
+part_1 Grip Pin: {'position': {'x': -40, 'y': 15, 'alpha': 0}}
+-----------
+Part part_2:
+part_2 Target Position: {'x': 25, 'y': 0, 'alpha': 0}
+part_2 Mounting Hole: {'id': 2, 'position': {'x': 0, 'y': 0, 'alpha': 0}}
+part_2 Grip Pin: {'position': {'x': 40, 'y': 15, 'alpha': 0}}
+-----------
